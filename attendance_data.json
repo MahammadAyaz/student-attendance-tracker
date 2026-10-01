@@ -1,0 +1,27 @@
+{
+    "students": [
+        {
+            "name": "Ayaz",
+            "roll_number": "shgdsahf",
+            "branch": "Csm",
+            "year": "1st Year"
+        }
+    ],
+    "attendance": [
+        {
+            "roll_number": "shgdsahf",
+            "date": "2026-10-01",
+            "status": "Present"
+        },
+        {
+            "roll_number": "shgdsahf",
+            "date": "2026-10-22",
+            "status": "Present"
+        },
+        {
+            "roll_number": "shgdsahf",
+            "date": "2026-10-03",
+            "status": "Present"
+        }
+    ]
+}
